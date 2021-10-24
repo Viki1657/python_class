@@ -1,0 +1,9 @@
+Variable - its a name given to store data and call it
+data type - type of data which needs to be stored 
+data structure - way in which the data is used in a organised way
+operator - used to perform operations
+keyword - prticulr words which provided a particular use
+in built function - predifined function to perform tasks
+
+Python is choosed as its more eary t code and its easy to identify the error occured
+
