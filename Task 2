@@ -1,0 +1,9 @@
+Interpreter - Written program is scanned one statement at a time. Analisation is pretty quick compared to a complier 
+              but the execution takes a more time. Interpreters are mostly used in Javascript and python
+Compiler - Entire program is scsnned at a time and converted to machine coe. Analisation takes time and te execution is           
+ fast compared to interpreter. Its mosly used in C and C++
+
+Rules for creating variable- Variable names are case sensitive. The reserved keywords cannot be used for variable naming.                             
+ Number cannot be used to start with a variable naming
+
+Complex data types are the ones which is written in the form of x+yj where x is the real and y is the imaginary part
